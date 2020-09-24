@@ -7,7 +7,7 @@ This is perhaps the best known database to be found in the pattern recognition l
 Predicted attribute: class of iris plant.
 This is an exceedingly simple domain.
 
-Noted that, for this dataset, you need to download this file https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data and rename it to .csv
+Noted for this dataset, this file format is not originally in csv, you need to download this file https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data and rename it to .csv
 
 ## Attribute Information:
 1. sepal length in cm
